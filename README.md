@@ -20,7 +20,7 @@ The dataset contains 4038 photos of electronic components in 6 different categor
 Two resources were used to create the dataset. The [Digi-Key] website, which is the biggest seller of electronic components in the world, was crawled in order to extract photos of the mentioned categories. Also, a public dataset of electronic components hosted in [Kaggle] was used.
 
 # Dataset for PCB
-# undefined > 2021-11-29 9:43pm
+
 https://public.roboflow.ai/object-detection/undefined
 
 Provided by undefined
@@ -29,10 +29,10 @@ License: Public Domain
 undefined
 
 
-pcb components - v2 2021-11-29 9:43pm
+pcb components - v2 
 ==============================
 
-This dataset was exported via roboflow.ai on November 29, 2021 at 8:45 PM GMT
+This dataset was exported via roboflow.ai.
 
 It includes 1416 images.
 Electronics-componets are annotated in YOLO v5 PyTorch format.
@@ -43,16 +43,16 @@ The following pre-processing was applied to each image:
 
 No image augmentation techniques were applied.
 
-# yolov8 fault detection > 2024-03-31 7:29am
+# yolov8 fault detection 
 https://universe.roboflow.com/annotation-2dedh/yolov8-fault-detection
 
 Provided by a Roboflow user
 License: CC BY 4.0
 
-yolov8 fault detection - v1 2024-03-31 7:29am
+yolov8 fault detection - v1 
 ==============================
 
-This dataset was exported via roboflow.com on April 8, 2024 at 1:25 PM GMT
+This dataset was exported via roboflow.com.
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
